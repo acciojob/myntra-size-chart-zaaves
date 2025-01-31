@@ -8,3 +8,6 @@ table{
 td{
 	border: 1px solid black;
 }
+.nott ~ td{
+	text-align: right;
+}
